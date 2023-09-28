@@ -1,0 +1,220 @@
+.heading{
+    background: #000;
+}
+.navbar-toggler{
+    background-image: url("../images/menu2");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+
+.logo-items{
+    color: #FFF;
+font-family: Helvetica;
+font-size: 1rem;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.user-icon{
+    width: 55px;
+    height: 30px;
+    border: 2px solid #FFF;
+    background-color: #FFF;
+    border-end-start-radius: 12px;
+    border-end-end-radius: 12px;
+    border-start-start-radius: 12px;  
+    border-start-end-radius: 12px;
+}
+.white-nav{
+    background-color: #FFF;
+    border-radius: 20px;
+    justify-content: space-around;
+}
+.white-nav-items{
+    color: #000;
+font-family: Helvetica;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding: 0;
+}
+
+.input-fill{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    color: #717171;
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.img-parent{
+    position: relative;
+    
+}
+.img-child{
+    position: absolute;
+    left: 15px;
+    top: 15px
+}
+.sun-parent{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.sun-child{
+    position: absolute;
+    margin-bottom: 1rem;
+}
+.sun-para{
+    color: #FFF;
+font-family: Helvetica;
+font-size: 36px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+}
+.sunset-button{
+    background-color: #FFF;
+    border-radius: 2.5rem;
+    padding: 0.3rem 1rem;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1px;
+    color: rgb(108, 6, 60);
+    border: 2px solid #fff;
+    
+}
+.next-trip-head{
+    color: #000;
+font-family: Helvetica;
+font-size: 34px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.mountain-img{
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.mountain-card{
+background: #BC1A6E;
+border-bottom-left-radius: 20px;
+border-bottom-right-radius: 20px;
+padding-bottom: 9rem;
+}
+.mountain-card1{
+    background: #CC2D4A;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-bottom: 9rem;
+    }
+.mountain-card2{
+        background: #D93B30;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+        padding-bottom: 9rem;
+        }
+.mycard{
+    border-radius: 2rem;
+}
+.mount-title{
+    color: #FFF;
+font-family: Helvetica;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.mount-para{
+    color: #FFF;
+font-family: Helvetica;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.frnds-para{
+    color: #FFF;
+font-family: Helvetica;
+font-size: 38px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.button-exp{
+    color: #000;
+font-family: Helvetica;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background-color: #FFF;
+}
+.frnds-child{
+    position: absolute;
+    top: 5rem;
+    padding: 0 76px 0 76px;
+    
+}
+.host{
+    position: absolute;
+    top: 18rem;
+
+}
+.foot{
+    background: #F4F3F3;
+}
+.footer-head{
+    color: #000;
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.foot-item{
+    border: 0;
+    padding: 0.50rem 0rem;
+    background-color: #F4F3F3;
+    color: #000;
+    font-family: Helvetica;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.hr-line{
+    border: 1px solid #B7B7B7;
+}
+.small-list{
+    flex-direction: row;
+}
+.last{
+    justify-content: space-between;
+}
+.foot-nav{
+    color: #000;
+font-family: Helvetica;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.drop{
+    position: relative;
+    z-index: 1;
+}
+.mybutton{
+    border: 0;
+    padding: 0;
+}
